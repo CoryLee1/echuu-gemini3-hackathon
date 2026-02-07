@@ -110,7 +110,7 @@ public/
 
 - `output/examples/example_chinese_canteen.json` - Chinese streaming script
 - `output/examples/example_japanese_akihabara.json` - Japanese streaming script
-- `output/examples/example_english_dance_video.json` - English streaming script
+- `output/examples/example_english_algorithm.json` - English streaming script
 - `output/examples/example_chinese_cat_audio.mp3` - TTS audio sample
 
 ## Key Metrics
@@ -142,6 +142,14 @@ public/
 ## License
 
 Apache-2.0 - Open source for the community
+
+**Copyright © 2025 Anngel LLC. All rights reserved.**
+
+## Contact
+
+- **Developer**: [@CoryLee1](https://github.com/CoryLee1)
+- **Email**: cory@anngel.live
+- **Email**: cory958014884@gmail.com
 
 ---
 

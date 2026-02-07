@@ -261,6 +261,14 @@ text = client.call_with_image(
 
 Apache-2.0 License - see [LICENSE](LICENSE) for details.
 
+**Copyright © 2025 Anngel LLC. All rights reserved.**
+
+## Contact
+
+- **GitHub**: [@CoryLee1](https://github.com/CoryLee1)
+- **Email**: cory@anngel.live
+- **Email**: cory958014884@gmail.com
+
 ## Acknowledgments
 
 Built for **Gemini 3 Dev Hackathon 2025**
