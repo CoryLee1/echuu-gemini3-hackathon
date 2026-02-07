@@ -1,7 +1,7 @@
 """
 Echuu - AI VTuber Auto-Live System
 
-Copyright (c) 2025 Anngel LLC. All rights reserved.
+Copyright (c) 2026 Anngel LLC. All rights reserved.
 
 A library for generating natural, spontaneous-feeling live broadcast content
 by learning from real streamer patterns.

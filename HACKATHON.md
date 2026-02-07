@@ -108,10 +108,12 @@ public/
 
 ## Output Examples
 
-- `output/examples/example_chinese_canteen.json` - Chinese streaming script
-- `output/examples/example_japanese_akihabara.json` - Japanese streaming script
-- `output/examples/example_english_algorithm.json` - English streaming script
-- `output/examples/example_chinese_cat_audio.mp3` - TTS audio sample
+- `output/examples/example_chinese_canteen.json` - Chinese (zh) streaming script
+- `output/examples/example_chinese_canteen_audio.mp3` - Chinese TTS audio
+- `output/examples/example_japanese_akihabara.json` - Japanese (ja) streaming script
+- `output/examples/example_japanese_akihabara_audio.mp3` - Japanese TTS audio
+- `output/examples/example_english_algorithm.json` - English (en) streaming script
+- `output/examples/example_english_algorithm_audio.mp3` - English TTS audio
 
 ## Key Metrics
 
@@ -143,7 +145,7 @@ public/
 
 Apache-2.0 - Open source for the community
 
-**Copyright © 2025 Anngel LLC. All rights reserved.**
+**Copyright © 2026 Anngel LLC. All rights reserved.**
 
 ## Contact
 
@@ -153,6 +155,6 @@ Apache-2.0 - Open source for the community
 
 ---
 
-**Built for Gemini 3 Dev Hackathon 2025**
+**Built for Gemini 3 Dev Hackathon 2026**
 
 This project showcases the innovative application of Gemini 3's Thinking Mode for creative AI content generation.

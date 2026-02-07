@@ -162,7 +162,10 @@ for step in engine.run(max_steps=10):
 
 ### Audio Sample
 
-See `output/examples/example_chinese_cat_audio.mp3` for TTS output quality.
+See `output/examples/` for multilingual TTS audio samples:
+- `example_chinese_canteen_audio.mp3` - Chinese
+- `example_japanese_akihabara_audio.mp3` - Japanese
+- `example_english_algorithm_audio.mp3` - English
 
 ## Architecture Overview
 
@@ -261,7 +264,7 @@ text = client.call_with_image(
 
 Apache-2.0 License - see [LICENSE](LICENSE) for details.
 
-**Copyright © 2025 Anngel LLC. All rights reserved.**
+**Copyright © 2026 Anngel LLC. All rights reserved.**
 
 ## Contact
 
@@ -271,7 +274,7 @@ Apache-2.0 License - see [LICENSE](LICENSE) for details.
 
 ## Acknowledgments
 
-Built for **Gemini 3 Dev Hackathon 2025**
+Built for **Gemini 3 Dev Hackathon 2026**
 
 This project showcases the innovative use of Gemini 3's:
 - Thinking Mode for controlled reasoning depth
